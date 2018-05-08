@@ -1,0 +1,30 @@
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_10_00.jpg jersey Gray White Red
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_10_00.jpg jersey Gray Violet
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_10_00.jpg jersey Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_13_00.jpg down Gray Red
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_13_00.jpg hoodie Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_13_00.jpg poncho Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_15_00.jpg hoodie Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_15_00.jpg blazer Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_15_00.jpg parka Gray White Violet
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_17_00.jpg parka Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_17_00.jpg blazer Gray Yellow
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_17_00.jpg down Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_19_00.jpg down Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_19_00.jpg jacket Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_21_00.jpg parka Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_21_00.jpg down Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_21_00.jpg blazer Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_23_00.jpg turtleneck Pink Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_23_00.jpg down Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_25_00.jpg parka Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_25_00.jpg down Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_25_00.jpg blazer Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_25_00.jpg down Blue Gray Red
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_26_00.jpg blazer Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_26_00.jpg jersey Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_28_00.jpg cardigan Gray Black
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_28_00.jpg down Gray Yellow
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_28_00.jpg down Blue Gray
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_28_00.jpg cardigan Gray Cyan Violet
+./img_data/2018_05_08_18_22_09/img2018_05_08_18_22_28_00.jpg down Blue Gray
