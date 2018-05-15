@@ -10,7 +10,7 @@
     <x>0</x>
     <y>0</y>
     <width>1242</width>
-    <height>837</height>
+    <height>821</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -24,6 +24,12 @@
   </property>
   <property name="autoFillBackground">
    <bool>false</bool>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>1242</width>
+    <height>821</height>
+   </size>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QScrollArea" name="scro">
